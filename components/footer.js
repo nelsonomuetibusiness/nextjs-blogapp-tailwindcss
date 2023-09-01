@@ -1,5 +1,5 @@
 export default function footer() {
   return (
-    <div>footer</div>
+    <div className="text-3xl">footer</div>
   )
 }
